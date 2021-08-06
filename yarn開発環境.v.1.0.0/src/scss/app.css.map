@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "mappings": ";AAEA;wDACwD;ACHxD;oEACoE;ACDpE;oEACoE;ACDpE;oEACoE;AAEpE,AAAA,EAAE,CAAC;EACC,KAAK,EAAE,GAAG;CACb;;AAED,AAAA,EAAE,CAAC;EACC,KAAK,EAAE,IAAI;CACd;;ACTD;oEACoE;ACDpE;oEACoE;ACDpE;oEACoE;ACDpE;oEACoE;APapE;wDACwD;AAGxD;wDACwD;AAGxD;wDACwD;AAGxD;wDACwD",
+    "sources": [
+        "app.scss",
+        "foundation/_reset.scss",
+        "foundation/_variable.scss",
+        "foundation/_function.scss",
+        "foundation/_mixin.scss",
+        "foundation/_base.scss",
+        "foundation/_font.scss",
+        "foundation/_animation.scss"
+    ],
+    "names": [],
+    "file": "app.css"
+}

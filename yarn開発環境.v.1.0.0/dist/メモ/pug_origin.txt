@@ -1,0 +1,13 @@
+<div class="l-root-container">
+      <header class="l-header">
+        <div class="p-header">header test</div>
+      </header>
+      <div class="l-content-container">
+        <div class="p-home-visual"></div>
+        <h2 class="c-page-title">main-content test</h2>
+        <div class="test">ああああ</div>
+      </div>
+    </div>
+    <div class="l-footer-area">
+      <div class="p-footer">footer test</div>
+    </div>
